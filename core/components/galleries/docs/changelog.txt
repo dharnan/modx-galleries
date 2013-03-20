@@ -1,0 +1,3 @@
+Changelog file for Galleries component.
+
+

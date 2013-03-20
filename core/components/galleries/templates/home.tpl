@@ -1,0 +1,1 @@
+<div id="galleries-panel-home-div"></div>
